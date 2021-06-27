@@ -2,7 +2,7 @@
 
 # Website settings
 title: Đặng Minh Đông
-description: Jack's blog,use Jekyll and github pages.
+description: Jack's blog,use Jekyll and github pages
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://exps.tk/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
